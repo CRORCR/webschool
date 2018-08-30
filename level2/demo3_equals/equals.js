@@ -13,7 +13,6 @@ function fine(param) {
 }
 fine("aa")
 
-
 //test new number
 var x = 234;
 var x1 = new Number(234);

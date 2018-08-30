@@ -1,3 +1,4 @@
+// JavaScript同时具有等于运算符"=="和精确等于运算符"==="
 // console.log(234 == "234");//true
 // console.log(234 === "234");//false
 // console.log("cat" == "CAT");//false

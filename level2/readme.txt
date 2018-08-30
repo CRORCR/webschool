@@ -1,0 +1,2 @@
+Node.js性能高，它使用JavaScript是因为JavaScript支持第一类函数和闭包。
+Node.js有一些核心类型：number，boolean，string和object

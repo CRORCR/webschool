@@ -1,6 +1,6 @@
 //原型链
-//util核心模块(require(“utils"))提供了一个创建函数原型链。
-//该函数称为 inherits ，并采用一个子类继之以父类
+//util核心模块(require("utils"))提供了一个创建函数原型链。
+//该函数称为 inherits,并采用一个子类继之以父类
 var inherits = require("util").inherits;
 function Car(n){
     this.name = n;

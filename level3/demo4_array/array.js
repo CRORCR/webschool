@@ -15,6 +15,7 @@ function demo() {
 demo2()
 
 //push:尾部添加 unshift:头部添加
+//pop:尾部弹出  shift:头部弹出
 function demo2() {
     var myData = [];
     myData.push(1);

@@ -31,3 +31,7 @@ var arr =[ "hello", "world", "hello", "nodejs"]
 arr.forEach( function  (value) {
     console.log(value);
 });
+
+for (var key in arr) {
+    console.log(arr[key]); // 'name', 'age', 'city'
+}
